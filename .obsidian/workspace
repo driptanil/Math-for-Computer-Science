@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2dbc65a3bc5e4a90",
-        "type": "leaf",
-        "dimension": 39.45679012345679,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "7dc8d5961f2553e9"
-      },
-      {
         "id": "b82bb4867ca010f4",
         "type": "leaf",
-        "dimension": 60.543209876543216,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Markdowns/04-Number-Theory.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
-        },
-        "group": "7dc8d5961f2553e9"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51218795776367
+    "width": 329.50435638427734,
+    "collapsed": true
   },
   "right": {
     "id": "e832f17a60fdad76",
@@ -99,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Markdowns/04-Number-Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Markdowns/04-Number-Theory.md"
               }
             }
           },
@@ -148,20 +133,20 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 356.7157897949219,
     "collapsed": true
   },
-  "active": "2dbc65a3bc5e4a90",
+  "active": "b82bb4867ca010f4",
   "lastOpenFiles": [
-    "README.md",
-    "Markdowns/01-Introduction.md",
-    "Markdowns/03-Strong-Induction.md",
     "Markdowns/04-Number-Theory.md",
+    "Markdowns/03-Strong-Induction.md",
+    "Markdowns/01-Introduction.md",
     "Markdowns/02-Induction.md",
+    "README.md",
     "images/tilemissing.png",
     "Excalidraw/Drawing 2022-03-31 16.36.26.excalidraw.md",
     "Git Branches.md",
