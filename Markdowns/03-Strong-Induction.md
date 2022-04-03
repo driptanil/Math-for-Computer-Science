@@ -1,3 +1,4 @@
+# Induction
 ```ad-info
 title: Good Proofs
 - correct

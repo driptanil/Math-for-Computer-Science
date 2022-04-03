@@ -4,39 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "408cc60c96e069fa",
-        "type": "split",
-        "children": [
-          {
-            "id": "ae420609ae971f58",
-            "type": "leaf",
-            "dimension": 38.13868613138686,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Strong-Induction.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "bb046815112696ef"
-          },
-          {
-            "id": "cf2c1688aeb07597",
-            "type": "leaf",
-            "dimension": 61.861313868613145,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Strong-Induction.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "bb046815112696ef"
+        "id": "2dbc65a3bc5e4a90",
+        "type": "leaf",
+        "dimension": 39.45679012345679,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": true
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "7dc8d5961f2553e9"
+      },
+      {
+        "id": "b82bb4867ca010f4",
+        "type": "leaf",
+        "dimension": 60.543209876543216,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "7dc8d5961f2553e9"
       }
     ],
     "direction": "vertical"
@@ -90,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51218795776367,
-    "collapsed": true
+    "width": 207.51218795776367
   },
   "right": {
     "id": "e832f17a60fdad76",
@@ -107,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Strong-Induction.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Strong-Induction.md"
+                "file": "README.md"
               }
             }
           },
@@ -163,17 +155,17 @@
     "width": 356.7157897949219,
     "collapsed": true
   },
-  "active": "ae420609ae971f58",
+  "active": "2dbc65a3bc5e4a90",
   "lastOpenFiles": [
-    "03-Strong-Induction.md",
-    "02-Induction.md",
-    "01-Introduction.md",
+    "README.md",
+    "Markdowns/01-Introduction.md",
+    "Markdowns/03-Strong-Induction.md",
+    "Markdowns/04-Number-Theory.md",
+    "Markdowns/02-Induction.md",
     "images/tilemissing.png",
     "Excalidraw/Drawing 2022-03-31 16.36.26.excalidraw.md",
     "Git Branches.md",
     "Git Basics.md",
-    "README.md",
-    "Git-Github.md",
-    "Java/15-complexity/15-complexity.md"
+    "Git-Github.md"
   ]
 }
