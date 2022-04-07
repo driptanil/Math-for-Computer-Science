@@ -1,5 +1,3 @@
-# Induction
-
 ### Proof by Contradiction
 ```ad-important
 To prove P is true, we assume P is false (i.e. $\neg$ P is true), then using that hypothesis to derive a false hood or contradiction.
@@ -20,6 +18,11 @@ title: Solution
  
  
 ## Induction
+```ad-help
+title: Inference Rule
+A rule (modus ponens) says that a proof of P together with proof of P $\Rightarrow$ Q is a proof of Q.
+```
+
  ```ad-important
   Let P(n) be a predicate. If P(0) is true and $\forall$ n $\in$ N (P(n) $\Rightarrow$ P(n + 1)) is true. Then $\forall$ n $\in$ N is true. If P(0), P(1) $\Rightarrow$ P(2), P(2) $\Rightarrow$ P(3) ..., then P(0), P(1), P(2) ... is true
   ``` 

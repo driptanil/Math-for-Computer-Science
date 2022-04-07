@@ -1,4 +1,4 @@
-# Induction
+# Super Induction
 ```ad-info
 title: Good Proofs
 - correct
@@ -16,7 +16,7 @@ title: Proof techniques not to use
 - Proof by picture
 - Too many notations
 ```
-
+## Axiomatic Proof
 ````ad-question
 
 |     |    |    |     |    |    |    |
@@ -85,7 +85,7 @@ Case C: One pair is inverted $\Rightarrow$ inversion stays the same
 ```
 ```ad-abstract
 title: Corollary
-(corollary is a proposition followed from a lemma)
+(**corollary is a proposition followed from a lemma**)
 - During a move the parity (fact of being even/odd) of the number of inversions does not change.
 ```ad-note
 title: Proof
@@ -152,6 +152,4 @@ Proof by Strong induction
 	  \Rightarrow Score =\frac{n^2+n}{2}= \frac{n(n+1)}{2}
 	  \end{align*}$$
 ```ad-success
-```
-```
 ````
