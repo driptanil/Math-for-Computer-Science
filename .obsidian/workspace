@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdowns/01-Introduction.md",
+                "file": "Markdowns/04-Number-Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdowns/01-Introduction.md"
+                "file": "Markdowns/04-Number-Theory.md"
               }
             }
           },
@@ -175,12 +175,12 @@
     "width": 356.7157897949219,
     "collapsed": true
   },
-  "active": "21d3ba4a6f1c72e1",
+  "active": "4ae09ffed0104f69",
   "lastOpenFiles": [
-    "Markdowns/01-Introduction.md",
-    "Markdowns/02-Induction.md",
-    "Markdowns/03-Strong-Induction.md",
     "Markdowns/04-Number-Theory.md",
+    "Markdowns/03-Strong-Induction.md",
+    "Markdowns/02-Induction.md",
+    "Markdowns/01-Introduction.md",
     "README.md",
     "images/tilemissing.png",
     "Excalidraw/Drawing 2022-03-31 16.36.26.excalidraw.md",
