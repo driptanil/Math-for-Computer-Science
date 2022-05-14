@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50435638427734
+    "width": 329.50435638427734,
+    "collapsed": true
   },
   "right": {
     "id": "e832f17a60fdad76",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdowns/04-Number-Theory.md",
+                "file": "Markdowns/02-Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdowns/04-Number-Theory.md"
+                "file": "Markdowns/02-Induction.md"
               }
             }
           },
@@ -175,11 +176,11 @@
     "width": 356.7157897949219,
     "collapsed": true
   },
-  "active": "4ae09ffed0104f69",
+  "active": "63fae30705dc68d3",
   "lastOpenFiles": [
-    "Markdowns/04-Number-Theory.md",
-    "Markdowns/03-Strong-Induction.md",
     "Markdowns/02-Induction.md",
+    "Markdowns/03-Strong-Induction.md",
+    "Markdowns/04-Number-Theory.md",
     "Markdowns/01-Introduction.md",
     "README.md",
     "images/tilemissing.png",
